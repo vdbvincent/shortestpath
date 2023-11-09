@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/vincent/Documents/c++/shortestpath/build",
+  "command": "/usr/bin/g++    -O3 -DNDEBUG   -o CMakeFiles/pathfinder.dir/main.cpp.o -c /home/vincent/Documents/c++/shortestpath/main.cpp",
+  "file": "/home/vincent/Documents/c++/shortestpath/main.cpp"
+},
+{
+  "directory": "/home/vincent/Documents/c++/shortestpath/build",
+  "command": "/usr/bin/g++    -O3 -DNDEBUG   -o CMakeFiles/pathfinder.dir/pathfinder.cpp.o -c /home/vincent/Documents/c++/shortestpath/pathfinder.cpp",
+  "file": "/home/vincent/Documents/c++/shortestpath/pathfinder.cpp"
+},
+{
+  "directory": "/home/vincent/Documents/c++/shortestpath/build",
+  "command": "/usr/bin/g++    -O3 -DNDEBUG   -o CMakeFiles/pathfinder.dir/noeud.cpp.o -c /home/vincent/Documents/c++/shortestpath/noeud.cpp",
+  "file": "/home/vincent/Documents/c++/shortestpath/noeud.cpp"
+},
+{
+  "directory": "/home/vincent/Documents/c++/shortestpath/build",
+  "command": "/usr/bin/g++    -O3 -DNDEBUG   -o CMakeFiles/pathfinder.dir/graphe.cpp.o -c /home/vincent/Documents/c++/shortestpath/graphe.cpp",
+  "file": "/home/vincent/Documents/c++/shortestpath/graphe.cpp"
+}
+]
